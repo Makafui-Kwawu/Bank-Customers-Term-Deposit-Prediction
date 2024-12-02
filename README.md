@@ -30,10 +30,9 @@ SubscriptionMeter Pro uses a state-of-the-art Logistic Regression and Gradient B
 ## Demo 🚀
 
 - ### Pictures 📸
-  | ![Homepage](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/041a5bf0-6e21-41d6-b84a-f5634d83f825)| ![Dashboard page 2](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/2da9a033-75ff-4115-9a43-f272dac7d2ad)
+  | ![Output variable](https://github.com/user-attachments/assets/2f2d6307-6ab6-4cd1-9716-f6ce2a179eca)| ![Feature_corr](https://github.com/user-attachments/assets/6d8b0b80-e79c-4043-a251-39ea48a87569)
 
-  | ![Predict page](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/5c6e3ebc-8619-4770-bcd8-efe2ecb1ac6d) |  ![History page](https://github.com/Makafui-Kwawu/ChurnMeter-Pro-Embedding-ML-models-in-Web-framework-Streamlit/assets/160020850/9a574fe1-385f-4860-a190-f273a2277a07)
-                |
+  |![Modelling result](https://github.com/user-attachments/assets/4190c23e-a015-407a-b717-ca0b90e4d0b9)|  
 
 - ### Article Link 🌐
   [Read Article]()
